@@ -7,4 +7,9 @@
         <tag-class>enterprise.tags.HelloTag</tag-class>
         <body-content>empty</body-content>
     </tag>
+    <tag>
+        <name>Welcome</name>
+        <tag-class>enterprise.tags.WelcomeTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
 </taglib>
